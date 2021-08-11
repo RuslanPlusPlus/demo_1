@@ -6,5 +6,5 @@ git_1 line5
 git_1 line6
 git_1 line7
 git_1 line8
-git_1 line9
-git_1 line10
+git_1 line9 ch
+git_1 line10 ch
